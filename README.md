@@ -3,6 +3,7 @@ Machine learning project to classify agricultural products based on dimensional 
 
 # Predicting Agricultural Product Class
 
+![Cover-23-AI-in-agriculture](https://github.com/agampawan1/Agricultural-Product-Classification/assets/120245764/3f1dd7a8-c6f3-4548-aab2-fc7a95b321f8)
 
 
 
